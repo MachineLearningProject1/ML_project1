@@ -7,12 +7,9 @@ Goals: (see description pdf for full details)
 Results: [Ranked 82th, with accuracy = 0.82512][leaderboard] (teamname = 0 error(s), 0 warning(s)) out of ~150 teams (400+ EPFL students)
 ## Folders
 0. README
-1. data
-<li> It contains the raw training and testing data that we download from the [Kaggle Higgs Boson Challenge][kaggle].
-2. scripts
-</li> It contains the python code files
-3. results
-</li> We store the final submission csv file here.
+1. data: It contains the raw training and testing data that we download from the [Kaggle Higgs Boson Challenge][kaggle].
+2. scripts: It contains the python code files
+3. results: We store the final submission csv file here.
 
 ## To generate the submission
 1. Download the train and test data set, and put them in to a folder named data, which is at the same level as the folder scripts.
