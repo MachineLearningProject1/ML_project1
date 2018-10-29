@@ -10,9 +10,9 @@ The first machine learning project
 4. cross_validation.py </li>It contains the function to split the data and the cross validation functions for both ridge regression and logistic regression, returning the mean value of the scores.
 
 5. Other basic files: </li>implementations.py, cost_functions, gradients.py, project_func.py, proj1_helpers.py
-## contributers
+## Contributers
 Tianchu ZHANG, Shiyuan HAO, 
 </li>Our team name on the kaggle leaderboard: 0 erroe(s), 0 warning(s)
 
-[kaggle-lead]: https://www.kaggle.com/c/epfml18-higgs/leaderboard
+[kaggle-lead](https://www.kaggle.com/c/epfml18-higgs/leaderboard)
 
