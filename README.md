@@ -14,5 +14,5 @@ The first machine learning project
 Tianchu ZHANG, Shiyuan HAO, 
 </li>Our team name on the kaggle leaderboard: 0 erroe(s), 0 warning(s)
 
-[kaggle-lead](https://www.kaggle.com/c/epfml18-higgs/leaderboard)
+[The 2018 kaggle leaderboard](https://www.kaggle.com/c/epfml18-higgs/leaderboard)
 
