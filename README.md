@@ -11,3 +11,8 @@ The first machine learning project
 
 5. Other basic files: </li>implementations.py, cost_functions, gradients.py, project_func.py, proj1_helpers.py
 ## contributers
+Tianchu ZHANG, Shiyuan HAO, 
+</li>Our team name on the kaggle leaderboard: 0 erroe(s), 0 warning(s)
+
+[kaggle-lead]: https://www.kaggle.com/c/epfml18-higgs/leaderboard
+
