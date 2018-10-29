@@ -8,11 +8,12 @@ Results: [Ranked 82th, with accuracy = 0.82512][leaderboard] (teamname = 0 error
 ## Folders
 0. README
 1. data
-</li> It contains the raw training and testing data that we download from the [Kaggle Higgs Boson Challenge][kaggle].
+<li> It contains the raw training and testing data that we download from the [Kaggle Higgs Boson Challenge][kaggle].
 2. scripts
 </li> It contains the python code files
 3. results
 </li> We store the final submission csv file here.
+
 ## To generate the submission
 1. Download the train and test data set, and put them in to a folder named data, which is at the same level as the folder scripts.
 2. Run the file run.py
