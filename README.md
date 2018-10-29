@@ -9,7 +9,7 @@ Results: [Ranked 82th, with accuracy = 0.82543][leaderboard] (teamname = 0 error
 ## To generate the submission
 1. Download the train and test data set, and put them in to the folder named scripts
 2. Run the file run.py
-3. Attention: after click the run file botton, please do not just left the program running aside, since their will be the messges displaying on the console, and require the inout from the keyboard. Pay attention to what will be shown on the console and reply to the questions according to your needs. If you don't have the scores.npy and scores_reduced.npy in the scripts folder, please do not choose to skip the cross validation steps.
+3. Attention: after click the run file botton, please do not just left the program running aside, since their will be the messges displaying on the console, and require the input from the keyboard. Pay attention to what will be shown on the console and reply to the questions according to your needs. If you don't have the scores.npy and scores_reduced.npy in the scripts folder, please do not choose to skip the cross validation steps.
 4. The final submission csv file will be generated in the case that you choose to run the training and prediction steps. The submission csv files will be stored in the folder named results.
 
 ## Files
@@ -23,7 +23,7 @@ Results: [Ranked 82th, with accuracy = 0.82543][leaderboard] (teamname = 0 error
 
 5. Other basic files: </li>implementations.py, cost_functions, gradients.py, project_func.py, proj1_helpers.py
 ## Contributers
-Tianchu ZHANG, Shiyuan HAO, 
+Tianchu ZHANG, Shiyuan HAO, Yishi JIA
 
 
 [leaderboard]: https://www.kaggle.com/c/epfml18-higgs/leaderboard
