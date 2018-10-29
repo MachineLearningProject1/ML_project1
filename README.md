@@ -17,7 +17,7 @@ Results: [Ranked 2nd][leaderboard] (teamname = 0 error(s), 0 warning(s)) out of 
 5. Other basic files: </li>implementations.py, cost_functions, gradients.py, project_func.py, proj1_helpers.py
 ## Contributers
 Tianchu ZHANG, Shiyuan HAO, 
-</li>Our team name on the kaggle leaderboard: 0 error(s), 0 warning(s)
+
 
 [leaderboard]: https://www.kaggle.com/c/epfml18-higgs/leaderboard
 [kaggle]: https://www.kaggle.com/c/epfml18-higgs
