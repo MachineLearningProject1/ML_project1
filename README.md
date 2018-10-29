@@ -9,6 +9,10 @@ For each model, we can choose if or not to generate the best hyperparameters by 
 This contains the preprocessing functions : standardization, replace_invalid_value
 
 3. feature_engineering.py
-4.
+It contains the operations we do to select or extend the features, and a function with the same name that combines all the operations together, by taking an class "ops" as an input, to tell this function to execute which operations in which order.
 
+4. cross_validation.py
+It contains the function to split the data and the cross validation functions for both ridge regression and logistic regression, returning the mean value of the scores.
+
+5. Other basic files: implementations.py, cost_functions, gradients.py, project_func.py, proj1_helpers.py
 ## contributers
